@@ -1,0 +1,66 @@
+.header{
+    background-image: url("https://vignette.wikia.nocookie.net/arcus/images/5/57/Sun_crystal_collector_by_suiatsu-d79rfoa.jpg/revision/latest?cb=20150513005540");
+    height: 100%;
+    width: 100;
+}
+
+.label{
+    color: white;
+    text-align: center;
+    font-family: 'Kumar One Outline', cursive;
+    height: 100px;
+    /* background-color: black; */
+    font-size: 50px;
+
+}
+
+.rules{
+    color: white;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+}
+
+.score{
+	color: white;
+	width: 33%;
+	margin-top: 0;
+	padding: 0, 20px, 20px, 20px;
+	font-family: 'EB Garamond', serif;
+	font-size: 25px;
+	float: left;
+    /* height: 90px */
+}
+
+.images{
+	width:100%;
+	margin: 0;
+	text-align: center;
+	float: left;
+	bottom: 0;
+    clear: both;
+    height: 35%;
+}
+
+.images img {
+    width: 250px;
+}
+
+.randomNum{
+    color: white;
+	width: 33%;
+	margin-top: 0;
+	padding: 0, 20px, 20px, 20px;
+	font-family: 'EB Garamond', serif;
+	font-size: 50px;
+	float: left;
+}
+
+.totalScore{
+    color: white;
+	width: 33%;
+	margin-top: 0;
+	font-family: 'EB Garamond', serif;
+	font-size: 25px;
+	float: left;
+}
